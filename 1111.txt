@@ -1,0 +1,9 @@
+올릴폴더에서 우클릭 gitbash실행
+git init
+vim gitignore ->
+
+**/bin
+.project
+.settings
+.classpath
+.metadata
